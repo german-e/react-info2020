@@ -1,0 +1,11 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+.footer-custom {
+ 
+  max-width: 100%;
+  padding: 0 15px;
+  
+  margin-bottom: 0;
+}
